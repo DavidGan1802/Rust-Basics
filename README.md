@@ -1,17 +1,17 @@
-My software exercise for CoE 164 (Computing Platforms)
+#My software exercise for CoE 164 (Computing Platforms)
 
-**W01C_GAN.rs**
+##**W01C_GAN.rs**
 
 Create a system that converts the numerical amount into Filipino currency in words.
 
-Input:
+###Input:
 
 The input starts with a number 𝑇 on a single line denoting the number of remittance forms.
 𝑇 lines then follow, with each line denoting the numeral amount written on the form. Each
 line consists of two space-separated nonnegative integers 𝑝 𝑐 denoting the whole Pesos
 and Centavos, respectively.
 
-Output:
+###Output:
 
 The output consists of 𝑇 lines, with each line denoting the corresponding form in the input.
 Each line should be of the format 𝐶𝑎𝑠𝑒 #𝑡: 𝑊 where 𝑡 is the serial of the test case starting
