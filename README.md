@@ -1,4 +1,4 @@
-# My Software Exercise for CoE 164 (Computing Platforms)
+# My Software Exercises for CoE 164 (Computing Platforms)
 
 ## **W01C_GAN.rs**
 
@@ -22,5 +22,14 @@ Both 𝑝 and 𝑐 can never be zero.
 
 Assume that all of the inputs are well-formed and are always provided within these constraints.
 It is not required to handle any errors.
+
+## **W02B_GAN.rs**
+
+Create a record finder module wherein a user will enter a student number and then it will return
+the name and degree of the student.
+
+### Input:
+
+### Output:
 
 Credits: Carl C. Dizon and Nestor Michael C. Tiglao
