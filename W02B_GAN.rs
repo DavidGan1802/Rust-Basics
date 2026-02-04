@@ -76,12 +76,14 @@ fn main() {
 
         else if command[0] == "u" {
             
+            let new_degree = command[3..].join(" ");
+
             let index_u = match students.iter().position(|s| s.sn == sn) {
             
                 Some(index_u) => index_u,
                 None => {
                 
-                    println!("Update {} d", sn);
+                    println!("Update {} {}", sn, new_degree);
                     println!("    Does not exist");
                     continue;
                 }
