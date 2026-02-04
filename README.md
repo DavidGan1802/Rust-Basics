@@ -79,4 +79,12 @@ It is not required to handle any errors.
 You are required to create and use a struct named StudentRecords with fields name:
 String, degree: String, and sn: u32.
 
-Credits: Carl C. Dizon and Nestor Michael C. Tiglao
+## **W03C_GAN.rs**
+
+For this module, make data structures handling the RGB and HSV color values and make routines
+that convert from one color model to another. The module will also have routines that determine
+the chromatic, complementary, and triad colors relative to a single color.
+
+The inputs and outputs are in w03_tests.rs
+
+*Credits: Carl C. Dizon and Nestor Michael C. Tiglao*
