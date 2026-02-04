@@ -1,5 +1,7 @@
 My software exercise for CoE 164 (Computing Platforms)
 
+**W01C_GAN.rs**
+
 Create a system that converts the numerical amount into Filipino currency in words.
 
 Input:
