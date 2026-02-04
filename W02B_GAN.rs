@@ -81,7 +81,7 @@ fn main() {
                 Some(index_u) => index_u,
                 None => {
                 
-                    println!("Update {}", sn);
+                    println!("Update {} d", sn);
                     println!("    Does not exist");
                     continue;
                 }
