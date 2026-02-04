@@ -1,4 +1,4 @@
-# My software exercise for CoE 164 (Computing Platforms)
+# My Software Exercise for CoE 164 (Computing Platforms)
 
 ## **W01C_GAN.rs**
 
